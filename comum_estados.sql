@@ -1,4 +1,4 @@
-insert into imobi-platform.comum_estados (id, nome, uf, regiao_id)
+insert into comum_estados (id, nome, uf, regiao_id)
 values  (11, 'Rondônia', 'RO', 1),
         (12, 'Acre', 'AC', 1),
         (13, 'Amazonas', 'AM', 1),
