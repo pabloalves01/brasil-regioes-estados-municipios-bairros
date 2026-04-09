@@ -1,4 +1,4 @@
-insert into imobi-platform.comum_regioes (id, nome)
+insert into comum_regioes (id, nome)
 values  (1, 'Norte'),
         (2, 'Nordeste'),
         (3, 'Sudeste'),
