@@ -1,4 +1,4 @@
-insert into imobi-platform.comum_bairros (id, nome, municipio_id)
+insert into comum_bairros (id, nome, municipio_id)
 values  (1100015001, 'Centro', 1100015),
         (1100015002, 'Liberdade', 1100015),
         (1100015003, 'Cidade Alta', 1100015),
