@@ -1,4 +1,4 @@
-insert into imobi-platform.comum_municipios (id, nome, estado_id)
+insert into comum_municipios (id, nome, estado_id)
 values  (1100015, 'Alta Floresta D''Oeste', 11),
         (1100023, 'Ariquemes', 11),
         (1100031, 'Cabixi', 11),
